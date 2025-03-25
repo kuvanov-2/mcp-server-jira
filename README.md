@@ -2,6 +2,10 @@
 
 このModel Context Protocol (MCP) サーバーは、JIRAとの連携機能を提供します。ChatGPTやその他のAIアシスタントがJIRAのイシューを直接操作できるようになります。
 
+<a href="https://glama.ai/mcp/servers/@kuvanov-2/mcp-server-jira">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@kuvanov-2/mcp-server-jira/badge" alt="Server for JIRA MCP server" />
+</a>
+
 ## 機能
 
 このMCPサーバーは以下のツールを提供します：
